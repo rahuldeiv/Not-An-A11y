@@ -9,4 +9,6 @@ Released materials are sanitized and intended to support controlled reproduction
 2. PaperReviwer is the controlled Android Application used for Attack A4.
 3. Runtime Attack Injections contains variations of injections used for A1, A2 and A3, used across framework and configurations.
 4. Logs provided under "Framework - Model".pdf.
-5. And finally, Experiments.xlsx contains all the trials, scores, metrics and data analysis.
+5. Hardware, device, framework, and LLM configurations used in the evaluation can be found under Experiment_Environment_and_Config.pdf.
+6. Representative Payload and Benign Tasks (a summary) can be found under Benign_task_and_representative_payload.pdf.
+7. And finally, Experiments.xlsx contains all the trials, scores, metrics and data analysis.
